@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445205895 source:c:\users\gamarala\documents\c++\music\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+
